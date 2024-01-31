@@ -52,10 +52,12 @@ p, li {
 
 header {
   margin-bottom: 10px;
+  background: #1abc9c;
   display: flex;
   flex-flow: row wrap;
   text-align: center;
-}
+  }
+
 
 body > * {
   background-color: red;
